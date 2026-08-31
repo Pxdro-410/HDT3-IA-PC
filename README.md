@@ -4,6 +4,8 @@ Hoja de trabajo #3 - Sistemas RAG AI engineering
 
 ### Autor: Pedro Caso -241286
 
+- Enlace del video: https://youtu.be/R2Bv2DOvZVQ
+
 ## Descripción
 
 Agente de preguntas frecuentes (FAQs) para Parachute S.A., una empresa de
